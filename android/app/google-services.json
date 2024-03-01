@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671843202522",
+    "project_id": "farm2fabriclearn",
+    "storage_bucket": "farm2fabriclearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671843202522:android:abce3240ce41d66472bce3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_farmtofabric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhZbkCuopJkQeUCuf85AMMuS8Okd8_yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
